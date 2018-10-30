@@ -1,12 +1,12 @@
-# mb.extruder
+# jQuery Interactivity Projectherok
 
-__An open source jQuery component to easily build a top or left sliding panel.__
+## __This project uses Bootstrap, jQuery, and jQueryUI__
 
-![mb.extruder](http://pupunzi.com/gitHubImg/mb.extruder.jpg)
-
-## [go to the demo](http://pupunzi.com/#mb.components/mb.extruder/extruder.html)
-## [go to the doc](http://wiki.github.com/pupunzi/jquery.mb.extruder/)
-## [go to the blog](http://pupunzi.open-lab.com/mb-jquery-components/jquery-mb-extruder/)
-
-
-[jquery.mb.components](http://pupunzi.com/), another way of thinking the web
+This project includes: 
+* A dropdown overlaid menu with animations
+* An "add-content" button 
+* Navigation hover effects
+* An image gallery using Colorbox
+* A jQuery accordion
+* jQuery tabs which load data from external html pages
+* A form with validation and jQuery date picker 
