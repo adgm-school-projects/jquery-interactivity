@@ -1,6 +1,7 @@
-# jQuery Interactivity Projectherok
+# jQuery Interactivity Project
 
-## __This project uses Bootstrap, jQuery, and jQueryUI__
+## Bootstrap, jQuery, and jQueryUI
+___
 
 This project includes: 
 * A dropdown overlaid menu with animations
